@@ -1,0 +1,23 @@
+{
+  "name": "projeto-teste-calculadora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.6.0": true
+  }
+}
